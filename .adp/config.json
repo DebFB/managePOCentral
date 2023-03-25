@@ -1,0 +1,11 @@
+{
+  "componentname": "ui.s2p.mm.pur.central.po.manage.s1",
+  "safeMode": false,
+  "appvariant": "ManagePOCentral",
+  "layer": "CUSTOMER_BASE",
+  "sourceSystem": "Trainning",
+  "isOVPApp": false,
+  "isFioriElement": true,
+  "environment": "ABAP",
+  "ui5Version": "1.71.55"
+}

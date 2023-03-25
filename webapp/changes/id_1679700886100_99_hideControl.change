@@ -1,0 +1,39 @@
+{
+	"fileName": "id_1679700886100_99_hideControl",
+	"fileType": "change",
+	"changeType": "hideControl",
+	"moduleName": "",
+	"reference": "customer.ManagePOCentral",
+	"packageName": "$TMP",
+	"content": {},
+	"selector": {
+		"id": "ui.s2p.mm.pur.central.po.manage.s1::sap.suite.ui.generic.template.ListReport.view.ListReport::C_CentralPurchaseOrderTP--template::Share",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/ui.s2p.mm.pur.central.po.manage.s1/changes/",
+	"projectId": "customer.ManagePOCentral",
+	"creation": "2023-03-24T23:34:47.398Z",
+	"originalLanguage": "PT",
+	"conditions": {},
+	"context": "",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.71.55",
+		"sourceChangeFileName": "",
+		"compositeCommand": "id_1679700886101_100_composite"
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"validAppVersions": {
+		"creation": "6.100.1",
+		"from": "6.100.1",
+		"to": "6.100.1"
+	},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}
